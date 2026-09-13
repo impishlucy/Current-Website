@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3lvvtOiCSQ=",
+  "success": true,
+  "projectFilePath": "/Users/lucypflugradt/Projects/Current-Website/API/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucypflugradt/.nuget/packages/dotnetenv/3.2.0/dotnetenv.3.2.0.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.12/microsoft.aspnetcore.authentication.jwtbearer.10.0.12.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/microsoft.bcl.cryptography/10.0.2/microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/microsoft.identitymodel.abstractions/8.22.0/microsoft.identitymodel.abstractions.8.22.0.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.22.0/microsoft.identitymodel.jsonwebtokens.8.22.0.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/microsoft.identitymodel.logging/8.22.0/microsoft.identitymodel.logging.8.22.0.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/microsoft.identitymodel.protocols/8.19.2/microsoft.identitymodel.protocols.8.19.2.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/8.19.2/microsoft.identitymodel.protocols.openidconnect.8.19.2.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/microsoft.identitymodel.tokens/8.22.0/microsoft.identitymodel.tokens.8.22.0.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/mysqlconnector/2.6.2/mysqlconnector.2.6.2.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/superpower/3.0.0/superpower.3.0.0.nupkg.sha512",
+    "/Users/lucypflugradt/.nuget/packages/system.identitymodel.tokens.jwt/8.22.0/system.identitymodel.tokens.jwt.8.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
